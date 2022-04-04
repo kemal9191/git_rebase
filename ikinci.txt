@@ -1,1 +1,3 @@
 Feate ilk commiti atabilmek için bu satırları yazıyorum.
+
+Featin de bir ikinci commiti olmasın mı?
