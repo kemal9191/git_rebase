@@ -1,5 +1,0 @@
-Master ikinci commit için bu satırı yazıyorum.
-
-Masterda bir commit daha atacağız.
-
-Master son commit
